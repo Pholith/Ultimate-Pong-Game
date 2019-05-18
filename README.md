@@ -1,6 +1,6 @@
 ﻿# Ultimate-Pong-Game
 
-![alt tag](\Ultimate-Pong-Game\Ultimate_Pong_Game\data\ArcadeBackground.png)
+![alt tag](/Ultimate-Pong-Game/Ultimate_Pong_Game/data/ArcadeBackground.png)
 
 Comment lancer le jeu ?
 
